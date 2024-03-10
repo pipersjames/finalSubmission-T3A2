@@ -1,0 +1,36 @@
+{
+  "name": "t3a2server",
+  "version": "1.0.0",
+  "description": "- Purpose     - The purpose of our website is to streamline the workflow within our working environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-cc": "jest --coverage",
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js",
+    "seed": "node ./src/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mongodb-memory-server": "^9.1.6",
+    "nodemon": "^3.0.3",
+    "supertest": "^6.3.4"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  }
+}

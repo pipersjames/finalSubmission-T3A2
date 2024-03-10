@@ -1,0 +1,65 @@
+/* entire APP */
+
+
+
+/* Login Page CSS */
+.loginBox {
+  background-color: whitesmoke;
+  max-width: 1280px;
+}
+
+.loginPageContainer {
+  background-image: url('./assets/seamless.jpg');
+  background-size: cover;
+  background-position: center;
+  margin: 0; 
+  padding: 0;
+  height: 100dvh;
+  width: 100dvw;
+}
+
+/*navigation*/
+.nav-link:hover {
+  color: #007bff;
+  text-decoration: none;
+}
+
+
+/*CreateAccount CSS*/
+.custom-colorchange {
+  color: #3498db;
+}
+
+.form-control:focus + .custom-colorchange,
+.form-control:not(:placeholder-shown) + .custom-colorchange {
+  color: #7f8c8d;
+}
+
+.createAccountPageContainer {
+  background-image: url('./assets/seamless.jpg');
+  background-size: cover;
+  background-position: center;
+  margin: 0; 
+  padding: 0;
+  height: 100dvh;
+  width: 100dvw;
+}
+
+
+.accountBox {
+  background-color: whitesmoke
+}
+
+/*formspage css*/
+.hoverPointer:hover {
+  cursor:pointer;
+}
+
+/*home page*/
+.card-body {
+  height: 10em; 
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
