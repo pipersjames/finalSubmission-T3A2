@@ -216,17 +216,17 @@ options:
 
 ## Production Website Links
 
-Front End
+* Front End
 https://stream-lined.netlify.app
-Back End
+* Back End
 https://stream-linedd-8391d4c8cf39.herokuapp.com
 
 
 ## Repository Links
 
-Front End 
+* Front End 
 https://github.com/pipersjames/t3a2react-app
-Back End
+* Back End
 https://github.com/JitCHEO/t3a2serverA
 
 ## Packages Implemented
