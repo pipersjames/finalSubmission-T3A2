@@ -324,7 +324,7 @@ run ```npm run test-cc``` for coverage report in the backend
 
 ##### Manual tests
 
-* [Manual Tests - Round 1](./docs/manual%20Tests/Final%20Project%20-%20Round%201.pdf)
+* [Manual Tests - Round 1](./docs/manual%20Tests/final%20Project%20-%20Round%201.pdf)
 
 ##### Production website testing with client
 
