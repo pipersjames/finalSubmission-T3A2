@@ -1,7 +1,7 @@
 # T3A2-B - Stream-lined Form application by James/Jit
 
 ### navigation 
-* [Presentation](./ppt/presentation.pdf)
+* [Presentation slides](./ppt/presentation.pdf)
 * [Jump to Part A](#PartA)
 * [Jump to Part B](#PartB)
 
